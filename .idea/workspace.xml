@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac22ec40-519c-442f-b6f3-c5d126791917" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_shoppingmall_ex3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607331792744</updated>
-      <workItem from="1607331794639" duration="2409000" />
+      <workItem from="1607331794639" duration="2562000" />
+      <workItem from="1607408506751" duration="4276000" />
     </task>
     <servers />
   </component>
@@ -61,5 +57,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="114" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607420225220">
+      <screen x="0" y="23" width="1792" height="1053" />
+    </state>
+    <state x="114" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1053@0.23.1792.1053" timestamp="1607420225220" />
+    <state x="345" y="280" width="670" height="676" key="search.everywhere.popup" timestamp="1607409248961">
+      <screen x="0" y="23" width="1792" height="1053" />
+    </state>
+    <state x="345" y="280" width="670" height="676" key="search.everywhere.popup/0.23.1792.1053@0.23.1792.1053" timestamp="1607409248961" />
   </component>
 </project>

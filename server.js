@@ -15,7 +15,8 @@ const dbAddress = "mongodb+srv://admin:qwer@cluster0.huxry.mongodb.net/shoppingm
 
 const dbOptions = {
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
+    useFindAndModify: false
 }
 
 mongoose
