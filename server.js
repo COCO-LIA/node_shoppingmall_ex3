@@ -26,7 +26,7 @@ mongoose
 
 const productRoute = require('./route/product')
 const orderRoute = require('./route/order')
-
+const userRoute = require('./route/user')
 
 //미들웨어 설정
 app.use(bodyparser.json())
@@ -34,6 +34,7 @@ app.use(bodyparser.urlencoded({extended:false}))
 
 app.use("/product", productRoute)
 app.use("/order", orderRoute)
+app.use("/user", userRoute)
 
 const port = 3001
 
